@@ -1,0 +1,3 @@
+Algoritma: Quick Sort
+Sorted Array: [1, 2, 23]
+Execution Time: 12400 nanoseconds
